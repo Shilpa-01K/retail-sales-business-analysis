@@ -1,4 +1,7 @@
 # Retail Sales and Business Performance Analysis
+## Dashboard Preview
+
+![Retail Sales Dashboard](Dashboard.png)
 
 ## Project Overview
 This project analyzes retail sales data using Microsoft Excel to understand sales performance, profitability, product categories, regional performance, and sales channels.
