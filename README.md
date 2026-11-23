@@ -2,7 +2,21 @@
 ## Dashboard Preview
 
 ![Retail Sales Dashboard](Dashboard.png)
+## Key Business Insights
 
+Based on the analysis of 500 retail sales records, the following insights were identified:
+
+1. **Overall Performance:** The business generated total net sales of ₹36,23,037.25 and total profit of ₹11,47,457.25.
+
+2. **Profitability:** The average profit margin across the records was 38.27%.
+
+3. **Product Category:** Furniture generated the highest net sales among the four product categories, while Office Supplies generated the lowest.
+
+4. **Regional Performance:** The West region recorded the highest total profit, followed by East, South, and North.
+
+5. **Sales Channel:** Store sales generated the highest net sales, followed by Marketplace and Online.
+
+6. **Business Analysis:** The dashboard enables users to explore performance across product categories and regions using interactive slicers.
 ## Project Overview
 This project analyzes retail sales data using Microsoft Excel to understand sales performance, profitability, product categories, regional performance, and sales channels.
 
